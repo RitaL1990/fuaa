@@ -3,4 +3,15 @@
     font-style: italic;
     font-weight: 700;
     padding-top: 46px;
+    background: linear-gradient(
+        45deg,
+        #ff0000 0%,
+        #ff7f00 14.28%,
+        #ffff00 28.57%,
+        #00ff00 42.86%,
+        #0000ff 57.14%,
+        #4b0082 71.43%,
+        );
+    color: blue;
+    border-radius: 10px;
 }
